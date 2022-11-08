@@ -52,7 +52,7 @@
       <img alt="Slack" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
       <img alt="VsCode" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img alt="Windows" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-      <img alt="Linux" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img alt="Linux" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" />
 
   </div>
   
