@@ -15,18 +15,18 @@
   </ul>
 
 
-<div align=center>
+<!-- <div align=center>
   <a href="https://github.com/CaiooAzevedoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiooAzevedoo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/CaiooAzevedoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+</div> -->
 
-<div align=center>
+<!-- <div align=center>
   <a href="https://github.com/CaiooAzevedoo" >
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=midnight-purple&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   </a>
- 
+  -->
 </div>
 
 
