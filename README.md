@@ -22,17 +22,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div> -->
 
-<!-- <div align=center>
+<div align=center>
   <a href="https://github.com/CaiooAzevedoo" >
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=midnight-purple&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   </a>
-  -->
+ 
 </div>
 
 
   <div style="display: inline_flex"><br>
       <h2 align="center">Languages and Tools</h2>
       <a href="https://github.com/CaiooAzevedoo"><br>
+      <img alt="Typescript" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<!--       <img alt="Express" height="40" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" /> -->
+      <img alt="Node.js" height="40" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img alt="Docker" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
       <img alt="MySQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <br>
