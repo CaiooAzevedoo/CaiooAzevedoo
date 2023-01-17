@@ -22,12 +22,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div> -->
 
-<div align=center>
+<!-- <div align=center>
   <a href="https://github.com/CaiooAzevedoo" >
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=midnight-purple&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   </a>
  
-</div>
+</div> -->
 
 
   <div style="display: inline_flex"><br>
