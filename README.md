@@ -17,10 +17,10 @@
 
 <div align=center>
   <a href="https://github.com/CaiooAzevedoo" >
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=tokyonight&border=61dafb&hide_border=true" alt="CaiooAzevedoo" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=algolia&border=61dafb&hide_border=true" alt="CaiooAzevedoo" />
   </a>
  <a href="https://github.com/CaiooAzevedoo" >
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" 
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&theme=algolia&border=61dafb&hide_border=true" 
  alt="CaiooAzevedoo" />
   </a>
 </div>
