@@ -15,20 +15,15 @@
   </ul>
 
 
-<!-- <div align=center>
-  <a href="https://github.com/CaiooAzevedoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiooAzevedoo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <a href="https://github.com/CaiooAzevedoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&langs_count=7&theme=midnight-purple" />
-</div> -->
-
 <div align=center>
   <a href="https://github.com/CaiooAzevedoo" >
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=midnight-purple&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=tokyonight&border=61dafb&hide_border=true" alt="CaiooAzevedoo" />
   </a>
- 
+ <a href="https://github.com/CaiooAzevedoo" >
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" 
+ alt="CaiooAzevedoo" />
+  </a>
 </div>
-
 
   <div style="display: inline_flex"><br>
       <h2 align="center">Languages and Tools</h2>
@@ -38,8 +33,8 @@
       <img alt="Node.js" height="40" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img alt="Docker" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
       <img alt="MySQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img alt="MongoDB" height="40" widh="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-      <img alt="Python" height="40" widh="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+      <img alt="MongoDB" height="40" widh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+      <img alt="Python" height="40" widh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
       <br>
       <br>
       <img alt="Javascript" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
