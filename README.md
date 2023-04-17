@@ -11,7 +11,7 @@
     <li><h4>🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!</h4></li>
     <li><h4>🌍 I'm from São Paulo, SP - Brazil</h4></li>
     <li><h4>👯 I’m looking to collaborate on Back-End projects</h4></li>
-    <li><h4>🧠 Currently Python</h4></li>
+    <li><h4>🧠 Currently Python and Java</h4></li>
   </ul>
 
 
