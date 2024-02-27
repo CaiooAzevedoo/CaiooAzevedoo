@@ -11,14 +11,11 @@
     <li><h4>🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!</h4></li>
     <li><h4>🌍 I'm from São Paulo, SP - Brazil</h4></li>
     <li><h4>👯 I’m looking to collaborate on Back-End projects</h4></li>
-    <li><h4>🧠 Currently Python and Java</h4></li>
+    <li><h4>🧠 C#/h4></li>
   </ul>
 
 
 <div align=center>
-  <a href="https://github.com/CaiooAzevedoo" >
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAzevedoo&theme=algolia&border=61dafb&hide_border=true" alt="CaiooAzevedoo" />
-  </a>
  <a href="https://github.com/CaiooAzevedoo" >
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAzevedoo&layout=compact&theme=algolia&border=61dafb&hide_border=true" 
  alt="CaiooAzevedoo" />
